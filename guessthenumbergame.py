@@ -39,4 +39,4 @@ if __name__ == "__main__":
     elif choice == "2":
         play_game()
     else:
-        print("Invalid choice. Exiting game.")
+        print("Invalid choice. Exiting game."
