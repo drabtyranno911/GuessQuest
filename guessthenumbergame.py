@@ -36,7 +36,8 @@ if __name__ == "__main__":
     if choice == "1":
         show_tutorial()
         play_game()
-    elif choice == "2":
+    elif choice == "2"
         play_game()
     else:
         print("Invalid choice. Exiting game.")
+
